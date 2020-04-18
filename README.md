@@ -11,15 +11,3 @@ The write button calls the generator function which stores user input on an arra
 I created random functions for each of the selected inputs using chartocode list I found. http://net-comber.com/charset.html
 
 And finally, there's a button event listener which listens for a click action upon it that runs the description above.
-
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
